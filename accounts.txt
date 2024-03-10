@@ -1,0 +1,7 @@
+muneer,male,21,m123
+hfrhf,male,0,12
+muneer,male,21,123
+ujjjjj,male,69,123
+AZHAR,Male,22,999
+kkk,male,11,111
+Moh,M,12,123
